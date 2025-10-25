@@ -1,0 +1,34 @@
+
+.main{
+    max-width: 800px;
+    margin: auto;
+    padding: 60px;
+}
+
+html {
+    background-color: red;
+}
+
+body {
+    background-color: coral;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.uwmheader {
+  background-color: mediumpurple;
+}
+
+.uwmmain {
+   background-color: hotpink
+}
+
+.uwmfooter {
+   background-color: indigo;
+}
+
+.uwmtext {
+    max-width: 800px;
+    margin: auto;
+    padding: 60px;
+}

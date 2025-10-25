@@ -1,0 +1,21 @@
+.uwmheader {
+  background-color: mediumpurple;
+}
+
+.uwmmain {
+   background-color: hotpink
+}
+
+.uwmfooter {
+   background-color: indigo;
+}
+
+.uwmtext {
+    max-width: 800px;
+    margin: auto;
+    padding: 60px;
+}
+
+body {
+    margin: 0;
+}
